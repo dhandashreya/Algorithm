@@ -4,6 +4,8 @@ Implementation of all algorithms in python.
 
 ## Selection Sort
 
+[Selection Sort](Selection_Sort.py)
+
 | Case | Complexity |
 | ----------- | ----------- |
 | `Worst Case` | **O(n^n)** |
@@ -13,6 +15,8 @@ Implementation of all algorithms in python.
 
 
 ## Bubble Sort
+
+[Bubble Sort](Bubble_Sort.py)
 
 | Case | Complexity |
 | ----------- | ----------- |
@@ -26,6 +30,9 @@ Implementation of all algorithms in python.
 # Searching_Algorithm
 Algorithms to check for an element or retrieve an element from any data structure where it is stored.
 ## Linear Search
+
+[Linear Search](linear_search.py)
+
 * It is a sequential search algorithm i.e. the list or array is traversed sequentially and every element is checked.
 * It is rarely used practically.
 
@@ -37,6 +44,9 @@ Algorithms to check for an element or retrieve an element from any data structur
 | `Auxiliary Space` | **O(1)**|
 
 ## Binary Search
+
+[Binary Search](binary_search.py)
+
 * It is an interval search algorithm.
 * This algorithms is specifically designed for searching in sorted data-structures. 
 * This type of searching algorithm is much more efficient than Linear Search.
