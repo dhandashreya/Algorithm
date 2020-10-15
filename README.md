@@ -60,3 +60,20 @@ Algorithms to check for an element or retrieve an element from any data structur
 | `Best Case`  |  **O(1)**|
 | `Auxiliary Space (iterative) `| **O(1)**|
 | ` Auxiliary Space (recursive)`|**O(log n)**|
+
+## Jump Search
+
+[Jump Search](https://github.com/dhandashreya/Algorithm_python/blob/master/Searching_Algorithm/jump.py)
+
+* It is also called block search algorithm.
+* This algorithm works only for sorted arrays or lists.
+* Optimal size of the block to be skipped is √n.
+* Time complexity of this algorithm lies between linear search and binary search.
+* This algorithm needs to jump backwards only once but binary search can jump backwards upto log n times.
+
+| Case | Complexity |
+| ----------- | ----------- |
+| `Worst Case` | **O(√n)** |
+| `Average Case` | **O(√n)** |
+| `Best Case`  |  **O(1)**|
+| `Auxiliary Space` | **O(1)**|
