@@ -45,7 +45,7 @@ Algorithms to check for an element or retrieve an element from any data structur
 
 ## Binary Search
 
-[Binary Search](binary_search.py)
+[Binary Search](https://github.com/dhandashreya/Algorithm_python/blob/master/Searching_Algorithm/binary_search.py)
 
 * It is an interval search algorithm.
 * This algorithms is specifically designed for searching in sorted data-structures. 
