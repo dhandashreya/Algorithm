@@ -1,5 +1,5 @@
-# Algorithm_python
-Implementation of all algorithms in python.
+# Algorithm
+Implementation of all algorithms in python, C.
 # Sorting_Algorithm
 
 ## Selection Sort
@@ -77,3 +77,18 @@ Algorithms to check for an element or retrieve an element from any data structur
 | `Average Case` | **O(√n)** |
 | `Best Case`  |  **O(1)**|
 | `Auxiliary Space` | **O(1)**|
+
+# Greedy Algorithm
+
+## Activity Selection Problem
+
+[Activity Selection Problem]
+
+This algorithm can be used for: - 
+* scheduling multiple eventsin one room, such that each event has its own start and end time.
+* scheduling manufacturing of products on same machine, such that each product has its own production timeline.
+
+| Case | Complexity |
+| ----------- | ----------- |
+| `When activities are sorted` | **O(n)** |
+| `When activities aren't sorted` | **O(nlogn)** |
