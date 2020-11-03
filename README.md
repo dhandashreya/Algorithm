@@ -82,7 +82,7 @@ Algorithms to check for an element or retrieve an element from any data structur
 
 ## Activity Selection Problem
 
-[Activity Selection Problem]
+[python](https://github.com/dhandashreya/Algorithm/blob/master/python/Greedy_Algo/activity_selection.py)
 
 This algorithm can be used for: - 
 * scheduling multiple eventsin one room, such that each event has its own start and end time.
